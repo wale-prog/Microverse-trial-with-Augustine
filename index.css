@@ -1,0 +1,29 @@
+
+body{
+    background-color: rgb(238, 236, 236);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#image{
+    position: relative;
+    max-width: 700px;
+    left:25vw;
+    top: 64px;
+}
+
+#title{
+    text-align: center;
+}
+#tribute-info{
+    margin-top: 92px;
+    text-align: center;
+    padding:0 64px 0 64px;
+}
+#img-caption{
+    text-align: center;
+    position: relative;
+    top: 64px;
+}
+.lists{
+    position:relative;
+    left: 20%
+}
